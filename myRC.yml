@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: mynginx-container
-          image: gouriboga/myvertexjava9dec22:1
+          image: gouriboga/myvertexjava9dec22:2
           ports:
             - containerPort: 8080
 
